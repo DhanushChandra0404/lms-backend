@@ -1,0 +1,268 @@
+{
+  "students": {
+    "full_stack_developer": {
+      "batch_001": [
+        {
+          "student_id": "FS00101",
+          "name": "Alice Smith",
+          "email": "alice.smith@example.com",
+          "mobile": "9876543210"
+        },
+        {
+          "student_id": "FS00102",
+          "name": "Bob Johnson",
+          "email": "bob.johnson@example.com",
+          "mobile": "8765432109"
+        },
+        {
+          "student_id": "FS00103",
+          "name": "Charlie Brown",
+          "email": "charlie.brown@example.com",
+          "mobile": "7654321098"
+        },
+        {
+          "student_id": "FS00104",
+          "name": "Diana Miller",
+          "email": "diana.miller@example.com",
+          "mobile": "6543210987"
+        }
+      ],
+      "batch_002": [
+        {
+          "student_id": "FS00201",
+          "name": "Eve Wilson",
+          "email": "eve.wilson@example.com",
+          "mobile": "5432109876"
+        },
+        {
+          "student_id": "FS00202",
+          "name": "Frank Garcia",
+          "email": "frank.garcia@example.com",
+          "mobile": "4321098765"
+        },
+        {
+          "student_id": "FS00203",
+          "name": "Grace Rodriguez",
+          "email": "grace.rodriguez@example.com",
+          "mobile": "3210987654"
+        },
+        {
+          "student_id": "FS00204",
+          "name": "Henry Martinez",
+          "email": "henry.martinez@example.com",
+          "mobile": "2109876543"
+        },
+         {
+          "student_id": "FS00205",
+          "name": "Irene Taylor",
+          "email": "irene.taylor@example.com",
+          "mobile": "1098765432"
+        }
+      ],
+      "batch_003": [
+        {
+          "student_id": "FS00301",
+          "name": "Jack Anderson",
+          "email": "jack.anderson@example.com",
+          "mobile": "9087654321"
+        },
+        {
+          "student_id": "FS00302",
+          "name": "Kelly Thomas",
+          "email": "kelly.thomas@example.com",
+          "mobile": "8076543219"
+        },
+        {
+          "student_id": "FS00303",
+          "name": "Liam Jackson",
+          "email": "liam.jackson@example.com",
+          "mobile": "7065432198"
+        },
+        {
+          "student_id": "FS00304",
+          "name": "Mia White",
+          "email": "mia.white@example.com",
+          "mobile": "6054321987"
+        }
+      ],
+      "batch_004": [
+        {
+          "student_id": "FS00401",
+          "name": "Noah Harris",
+          "email": "noah.harris@example.com",
+          "mobile": "5043219876"
+        },
+        {
+          "student_id": "FS00402",
+          "name": "Olivia Martin",
+          "email": "olivia.martin@example.com",
+          "mobile": "4032198765"
+        },
+        {
+          "student_id": "FS00403",
+          "name": "Peter Wright",
+          "email": "peter.wright@example.com",
+          "mobile": "3021987654"
+        },
+        {
+          "student_id": "FS00404",
+          "name": "Quinn Green",
+          "email": "quinn.green@example.com",
+          "mobile": "2019876543"
+        },
+         {
+          "student_id": "FS00405",
+          "name": "Rachel Hall",
+          "email": "rachel.hall@example.com",
+          "mobile": "1008765432"
+        }
+      ]
+      
+      
+    },
+    "data_science": {
+      "batch_001": [
+        {
+          "student_id": "DS00101",
+          "name": "Aarav Singh",
+          "email": "aarav.singh@example.com",
+          "mobile": "9276543210"
+        },
+        {
+          "student_id": "DS00102",
+          "name": "Bhavna Kumar",
+          "email": "bhavna.kumar@example.com",
+          "mobile": "8265432109"
+        },
+        {
+          "student_id": "DS00103",
+          "name": "Chirag Verma",
+          "email": "chirag.verma@example.com",
+          "mobile": "7254321098"
+        },
+        {
+          "student_id": "DS00104",
+          "name": "Divya Sharma",
+          "email": "divya.sharma@example.com",
+          "mobile": "6243210987"
+        }
+      ],
+      "batch_002": [
+        {
+          "student_id": "DS00201",
+          "name": "Esha Gupta",
+          "email": "esha.gupta@example.com",
+          "mobile": "5232109876"
+        },
+        {
+          "student_id": "DS00202",
+          "name": "Farhan Khan",
+          "email": "farhan.khan@example.com",
+          "mobile": "4221098765"
+        },
+        {
+          "student_id": "DS00203",
+          "name": "Gauri Joshi",
+          "email": "gauri.joshi@example.com",
+          "mobile": "3210987654"
+        },
+        {
+          "student_id": "DS00204",
+          "name": "Harsh Patel",
+          "email": "harsh.patel@example.com",
+          "mobile": "2209876543"
+        },
+         {
+          "student_id": "DS00205",
+          "name": "Ishaan Reddy",
+          "email": "ishaan.reddy@example.com",
+          "mobile": "1298765432"
+        }
+      ],
+      "batch_003": [
+        {
+          "student_id": "DS00301",
+          "name": "Jiya Nair",
+          "email": "jiya.nair@example.com",
+          "mobile": "9387654321"
+        },
+        {
+          "student_id": "DS00302",
+          "name": "Kunal Menon",
+          "email": "kunal.menon@example.com",
+          "mobile": "8376543219"
+        },
+        {
+          "student_id": "DS00303",
+          "name": "Lakshmi Iyer",
+          "email": "lakshmi.iyer@example.com",
+          "mobile": "7365432198"
+        },
+        {
+          "student_id": "DS00304",
+          "name": "Manav Desai",
+          "email": "manav.desai@example.com",
+          "mobile": "6354321987"
+        }
+      ]
+     
+      
+     
+    },
+    "aws_devops": {
+      "batch_001": [
+        {
+          "student_id": "AD00101",
+          "name": "Rajesh Kumar",
+          "email": "rajesh.kumar@example.com",
+          "mobile": "9576543210"
+        },
+        {
+          "student_id": "AD00102",
+          "name": "Sneha Patel",
+          "email": "sneha.patel@example.com",
+          "mobile": "8565432109"
+        },
+        {
+          "student_id": "AD00103",
+          "name": "Vikram Singh",
+          "email": "vikram.singh@example.com",
+          "mobile": "7554321098"
+        },
+        {
+          "student_id": "AD00104",
+          "name": "Deepika Sharma",
+          "email": "deepika.sharma@example.com",
+          "mobile": "6543210987"
+        }
+      ],
+      "batch_002": [
+        {
+          "student_id": "AD00201",
+          "name": "Amit Verma",
+          "email": "amit.verma@example.com",
+          "mobile": "5532109876"
+        },
+        {
+          "student_id": "AD00202",
+          "name": "Pooja Joshi",
+          "email": "pooja.joshi@example.com",
+          "mobile": "4521098765"
+        },
+        {
+          "student_id": "AD00203",
+          "name":"Vijaybabu",
+          "email":"vijaybabu@gmail.com",
+          "mobile":"8186908082"
+        },
+        {
+          "student_id": "AD00204",
+          "name":"Uppu Sai Siva",
+          "email":"saisiva@gmail.com",
+          "mobile":"8074528910"
+        }
+      ]
+    }
+
+ }
+}
